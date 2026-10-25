@@ -1,17 +1,52 @@
 # MH Tax – Interactive Business Website
-Multi-page responsive e-commerce website for a home textile store (HTML5, CSS3, vanilla JavaScript).
+
+A fully responsive, multi-page business website for **MH Tax**, an online home textile store selling bedsheets, hair towels, makeup pads, pouches and bags. Built as **Task 02** of the Devixo Solutions Web Development Internship Program.
+
+## Live Demo
+https://hifza18abbas-maker.github.io/MH-Tax-website/
+
+## Technologies
+- HTML5
+- CSS3 (Flexbox, Grid, CSS variables, media queries)
+- JavaScript (Vanilla)
 
 ## Pages
-Home, About, Services, Portfolio, Contact
+- **Home:** hero with typing animation, product slider, counters
+- **About:** store story, mission, vision, counters
+- **Services:** what we sell and an FAQ accordion
+- **Portfolio:** product gallery
+- **Contact:** contact form with validation and contact details
 
-## JavaScript features (8)
-Responsive nav menu, image slider, FAQ accordion, form validation, scroll-to-top, dark mode, animated counters, typing animation
+## JavaScript Features (8)
+1. Responsive navigation menu
+2. Image slider
+3. FAQ accordion
+4. Form validation
+5. Scroll-to-top button
+6. Dark mode (saved in localStorage)
+7. Animated counters
+8. Typing animation
 
-## Structure
-index.html, about.html, services.html, portfolio.html, contact.html, css/style.css, js/script.js, images/
+## Folder Structure
+```
+MH-Tax-website/
+├── index.html
+├── about.html
+├── services.html
+├── portfolio.html
+├── contact.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── images/
+└── README.md
+```
 
-## Run
-Open index.html in a browser. Put product photos in images/ as p1.jpg ... p7.jpg.
+## How to Run
+1. Download or clone this repository.
+2. Open `index.html` in any web browser.
 
-## Live link
-(add your GitHub Pages / Netlify link here)
+## Author
+Hifza Abbas  
+GitHub: [hifza18abbas-maker](https://github.com/hifza18abbas-maker)
