@@ -40,6 +40,7 @@ MH-Tax-website/
 ├── js/
 │   └── script.js
 ├── images/
+├── Screenshots/
 └── README.md
 ```
 
